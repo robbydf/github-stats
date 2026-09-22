@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #b07219; 
-  width: 50.184%;
+  width: 50.178%;
 " class="progress-item"></span><span style="
   background-color: #00c0b5; 
-  width: 26.266%;
+  width: 26.275%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 6.237%;
+  width: 6.236%;
 " class="progress-item"></span><span style="
   background-color: #e38c00; 
   width: 4.392%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 4.254%;
+  width: 4.253%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 3.034%;
@@ -155,10 +155,10 @@ div.ellipsis {
   width: 0.871%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.849%;
+  width: 0.848%;
 " class="progress-item"></span><span style="
   background-color: #844FBA; 
-  width: 0.744%;
+  width: 0.743%;
 " class="progress-item"></span><span style="
   background-color: #a52a22; 
   width: 0.734%;
@@ -267,7 +267,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">RobotFramework</span>
-  <span class="percent">26.27%</span>
+  <span class="percent">26.28%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
