@@ -134,40 +134,40 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #b07219; 
-  width: 50.179%;
+  width: 50.192%;
 " class="progress-item"></span><span style="
   background-color: #00c0b5; 
-  width: 26.268%;
+  width: 26.256%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 6.234%;
+  width: 6.231%;
 " class="progress-item"></span><span style="
   background-color: #e38c00; 
-  width: 4.390%;
+  width: 4.388%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 4.257%;
+  width: 4.255%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 3.033%;
+  width: 3.031%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 0.871%;
+  width: 0.870%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
   width: 0.848%;
 " class="progress-item"></span><span style="
   background-color: #844FBA; 
-  width: 0.743%;
+  width: 0.751%;
 " class="progress-item"></span><span style="
   background-color: #a52a22; 
   width: 0.734%;
 " class="progress-item"></span><span style="
   background-color: #e4cc98; 
-  width: 0.593%;
+  width: 0.592%;
 " class="progress-item"></span><span style="
   background-color: #4298b8; 
-  width: 0.408%;
+  width: 0.409%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
   width: 0.388%;
@@ -251,7 +251,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Java</span>
-  <span class="percent">50.18%</span>
+  <span class="percent">50.19%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -267,7 +267,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">RobotFramework</span>
-  <span class="percent">26.27%</span>
+  <span class="percent">26.26%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -379,7 +379,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HCL</span>
-  <span class="percent">0.74%</span>
+  <span class="percent">0.75%</span>
 </li>
 <li style="animation-delay: 1500ms;">
   <svg 
