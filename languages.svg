@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #b07219; 
-  width: 50.058%;
+  width: 50.063%;
 " class="progress-item"></span><span style="
   background-color: #00c0b5; 
-  width: 25.716%;
+  width: 25.713%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 6.388%;
+  width: 6.387%;
 " class="progress-item"></span><span style="
   background-color: #e38c00; 
   width: 4.295%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 4.275%;
+  width: 4.274%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 3.001%;
@@ -158,7 +158,7 @@ div.ellipsis {
   width: 0.866%;
 " class="progress-item"></span><span style="
   background-color: #844FBA; 
-  width: 0.735%;
+  width: 0.734%;
 " class="progress-item"></span><span style="
   background-color: #a52a22; 
   width: 0.721%;
@@ -273,7 +273,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">RobotFramework</span>
-  <span class="percent">25.72%</span>
+  <span class="percent">25.71%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -305,7 +305,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TSQL</span>
-  <span class="percent">4.30%</span>
+  <span class="percent">4.29%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -385,7 +385,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HCL</span>
-  <span class="percent">0.74%</span>
+  <span class="percent">0.73%</span>
 </li>
 <li style="animation-delay: 1500ms;">
   <svg 
